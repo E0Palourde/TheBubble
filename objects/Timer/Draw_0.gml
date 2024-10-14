@@ -1,0 +1,1 @@
+draw_text(oCamera.x-50, oCamera.y-200, string(global.timer/60));

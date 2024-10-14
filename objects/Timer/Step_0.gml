@@ -1,0 +1,1 @@
+global.timer += 1; // Incrémentation de la variable
